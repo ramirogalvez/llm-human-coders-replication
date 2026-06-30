@@ -8,7 +8,7 @@ This folder contains the input data used by the replication scripts.
 
 - `corpus/`: 210 Markdown files with the article texts analyzed in the study. File names follow the `NewsId` identifier, for example `N21.md`.
 
-  **Source note:** The article texts in `corpus/` come from Factiva and are included as a small sample for transparency and replication purposes, with Factiva identified as the database source.
+  **Source note:** The article texts in `corpus/` come from Factiva and are included for replication purposes, with Factiva identified as the database source.
 
 - `political_party_mayor.dta`: auxiliary Stata dataset mapping news items to the mayor's party for the political-bias appendix table.
 
